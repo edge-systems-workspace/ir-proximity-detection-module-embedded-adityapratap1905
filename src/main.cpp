@@ -2,7 +2,7 @@
 /**
  * @file main.cpp
  * @brief Embedded Obstacle Detection System using IR Sensor
- * @author
+ * @author Aditya Pratap
  * @date 2026-02-16
  *
  * @details
